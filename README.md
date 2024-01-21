@@ -8,5 +8,5 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/6abc/script/main/django
 ```
 ## Incident Response Linux
 ```sh
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/6abc/script/main/IRLinux_Script.sh)"
+sudo bash -c "$(wget -qLO - https://raw.githubusercontent.com/6abc/script/main/IRLinux_Script.sh)"
 ```
