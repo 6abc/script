@@ -6,3 +6,7 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/6abc/script/main/debian
 ```sh
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/6abc/script/main/django_starter.sh)"
 ```
+## Incident Response Linux
+```sh
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/6abc/script/main/IRLinux_Script.sh)"
+```
